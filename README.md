@@ -19,7 +19,7 @@ The app fetches data from **GIPHY, Unsplash, and Pexels** APIs and is built usin
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Vite + JavaScript (or React, if applicable)
+- **Frontend:** Vite + JavaScript (React)
 - **APIs Used:**
   - GIPHY API
   - Unsplash API
@@ -34,7 +34,6 @@ Create a `.env` file in the root of your project and add the following keys:
 
 ```env
 VITE_GIPHY_API_KEY=your_giphy_api_key
-VITE_GIPHY_KEY=4
 VITE_UNSPLASH_KEY=your_unsplash_api_key
 VITE_PEXELS_KEY=your_pexels_api_key
 
